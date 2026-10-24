@@ -1,0 +1,10 @@
+{
+    "contract_id": "bodhi.open-tree.v1",
+    "identity": "100048777766367/open-tree",
+    "archetype": "DATA_FOUNDRY",
+    "role": "TREE_MACRO_SCANNER",
+    "network_partners": {
+        "storage": "100048777766367/storage",
+        "next_stage": "100048777766367/open-dir"
+    }
+}
